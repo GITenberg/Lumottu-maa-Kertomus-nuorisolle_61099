@@ -1,11 +1,16 @@
 _repo: Lumottu-maa-Kertomus-nuorisolle_61099
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tulimaa, Ilmari
     gutenberg_agent_id: '51252'
     url: http://www.gutenberg.org/2009/agents/51252
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61099#Lumottu-maa-Kertomus-nuorisolle
 gutenberg_issued: '2020-01-04'
 gutenberg_type: Text
 identifiers:
